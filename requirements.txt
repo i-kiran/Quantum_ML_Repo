@@ -1,0 +1,16 @@
+numpy
+scipy
+pandas
+matplotlib
+jupyterlab
+
+# Uncomment any frameworks you plan to use:
+# qiskit
+# qiskit-machine-learning
+# pennylane
+# tensorflow
+# tensorflow-quantum
+# cirq
+# torch
+# torchquantum
+# mindquantum

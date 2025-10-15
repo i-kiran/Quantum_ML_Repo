@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Quantum × Machine Learning (QML) Hub"
+message: "If you use this repository, please cite it as below."
+type: dataset
+authors:
+  - family-names: Kaur
+    given-names: Kirandeep
+repository-code: "https://github.com/your-org-or-user/quantum-ml-awesome"
+version: "0.1.0"
+date-released: "2025-10-15"

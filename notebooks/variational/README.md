@@ -1,0 +1,3 @@
+# Variational Notebooks
+
+VQA examples.
