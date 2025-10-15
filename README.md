@@ -1,7 +1,7 @@
 # Quantum × Machine Learning (QML) Hub
 
 A community-maintained hub of **papers, datasets, tools, benchmarks, libraries, and tutorials** at the intersection of **quantum computing** and **machine learning** (QML).  
-This repository goes beyond a single README: it is a structured knowledge base with folders for **papers**, **code notebooks**, **benchmarks**, **datasets**, **tutorials**, and **tools**.
+This repository contains a structured knowledge base with folders for **papers**, **code notebooks**, **benchmarks**, **datasets**, **tutorials**, and **tools**.
 
 ## Goals
 - Provide a **clear map** of QML: what it is, why it matters, and where to start.
