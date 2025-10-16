@@ -2,6 +2,6 @@
 
 QNNs, quantum kernels, generative models, hybrid training.
 
-[QNN][PQC] **Quantum Self-Attention Neural Networks for Text Classification**
-- Proposes a hybrid quantum-classical approach to implementing self-attention layers.
-- Keys and query are computed using quantum ansatzes and before being projected to a classical representation to compute attention scores.
+1. [QNN][PQC] **Quantum Self-Attention Neural Networks for Text Classification**
+  - Proposes a hybrid quantum-classical approach to implementing self-attention layers.
+  - Keys and query are computed using quantum ansatzes and before being projected to a classical representation to compute attention scores.
