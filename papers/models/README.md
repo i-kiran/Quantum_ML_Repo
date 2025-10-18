@@ -1,9 +1,3 @@
----
-title: "Relativity Notes"
-bibliography: references.bib
-csl: apa.csl     # optional: specify style (APA, IEEE, etc.)
----
-
 # Models
 
 QNNs, quantum kernels, generative models, hybrid training.
