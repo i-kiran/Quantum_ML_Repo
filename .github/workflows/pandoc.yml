@@ -1,0 +1,26 @@
+name: Build Markdown with Pandoc
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Install Pandoc
+        run: sudo apt-get install -y pandoc
+
+      - name: Compile Markdown to PDF
+        run: pandoc myfile.md -o myfile.pdf --citeproc
+
+      - name: Commit and push output
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add myfile.pdf
+          git commit -m "Auto-build PDF" || echo "No changes"
+          git push
