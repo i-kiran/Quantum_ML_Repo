@@ -5,6 +5,8 @@ type: dataset
 authors:
   - family-names: Kaur
     given-names: Kirandeep
+  - family-names: Gupta
+    given-names: Aditya
 repository-code: "https://github.com/your-org-or-user/quantum-ml-awesome"
 version: "0.1.0"
 date-released: "2025-10-15"
